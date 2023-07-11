@@ -1,0 +1,145 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    max-width: 100% !important;
+}
+.container-head{
+    background-image: url(./img/3.jpg);
+    background-size:cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 400px;
+}
+/* .card-body{
+    padding: 20px;
+} */
+a{
+    color:blue;
+}
+.hh{
+    font-size: 35px;
+}
+.card-title{
+    margin-top: 20px;
+}
+.footer{
+    background-color: rgb(227, 221, 221);
+    padding: 40px;
+}
+.ws{
+    width: 260px;
+}
+.nav-align-left {
+    float: left;
+  }
+
+  .nav-link{
+    font-size: 40px;
+    font-weight: bold;
+  }
+  
+  .nav-align-right {
+    float: right;
+  }
+
+  #btnsignup{
+    text-align: center !important;
+  }
+  .btn{
+    width: 100px;
+  }
+  .btn1{
+    border-radius: 7px;
+    margin-top: 10px;
+    padding: 10px;
+  }
+
+/* .container1{
+    display: flex;
+   justify-content: s
+} */
+
+.center-divs {
+
+    display: flex;
+    justify-content: center;
+ 
+  }
+.center-div {
+
+    display: flex;
+    justify-content: center;
+ 
+  }
+  
+
+  .inline-block {
+    
+    display: inline-block;
+    margin: 10px;
+  } 
+
+.center-div {
+    display: flex;
+    justify-content: center;
+  }
+.card {
+    display: flex;
+    justify-content: center;
+  }
+
+#container-card{
+    display: flex;
+    justify-content: space-around;
+}
+/* .card{
+    padding: 20px;
+    border: none;
+    box-shadow: 10px 10px 8px black;
+} */
+/* #cards{
+    padding: 0px 250px;
+    margin-left: -40px;
+    
+} */
+.card-body {
+    padding: 0px;
+}
+.ssb{
+    margin-top: 85px;
+    color :#ffffff;
+}
+.ssb2{
+    margin-top: 100px;
+    color:#ffffff;
+}
+.ss
+{
+    margin-left: 31px;
+}
+.ss > p{
+    margin-top: 23px;
+}
+.ulist{
+    list-style: none;
+    margin-top: 23px;
+}
+.ulistlogo li
+{
+    margin-top: 23px;
+    display: inline-block; 
+    padding:12px;
+}
+
+/* .navbar{
+position: relative;
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+    -ms-flex-align: center;
+    align-items: center;
+    -ms-flex-pack: justify;
+    justify-content: space-between;
+    padding: 0.5rem 1rem;
+} */
